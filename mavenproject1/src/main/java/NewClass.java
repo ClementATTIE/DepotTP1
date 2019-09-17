@@ -10,5 +10,6 @@
  */
 public class NewClass {
     //commentaire
+    int i =9;
    
 }
