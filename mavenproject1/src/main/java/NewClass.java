@@ -11,5 +11,6 @@
 public class NewClass {
     //commentaire
     int i =9;
+    int p=45;
    
 }
